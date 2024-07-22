@@ -1,6 +1,6 @@
 # jira_collector
 
-Проект предназначен для выгрузки из jira данных по  доске, и их записи в google sheets
+Проект предназначен для выгрузки из jira данных по  доске в ClickHouse,  их записи в google sheets и загрузка этих данных в ClickHouse для работы с DataLens
 
 ## Особенности 
 
